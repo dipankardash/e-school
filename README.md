@@ -1,4 +1,4 @@
 # e-school
 
 live preview
-https://github.com/dipankardash/e-school
+https://dipankardash.github.io/e-school/
