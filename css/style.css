@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+header{
+	background-color: #F0FFF0;
+}
+.c_nav{
+
+}
+.menu ul li a{
+	padding: 0 20px !important;
+	color: #000000 !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_cm{	
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF !important;
+	background-color: #21B573;
+	border-radius: 33px;
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+}
+.btn_sign{
+	margin-left: 25px;
+/*	padding: 12px 28px;*/
+	width: 105px;
+	height: 45px;
+}
+.btn_cm:hover{
+	background-color: orangered;
+}
+.btn_cm:active{
+	background-color: orangered !important;
+}
+.banner{
+	background-color: #F0FFF0;
+	padding: 55px;
+}
+.b_text{}
+.b_p1{
+	color: #FF0000;
+}
+.b_h1{
+	font-size: 48px;
+	margin: 0 0 20px 0;
+	padding-right: 105px;
+}
+.b_h1 span{
+	color: green;
+}
+.b_p2{
+	padding-right: 120px;
+}
+.btn_link{
+	width: 155px;
+	height: 45px;
+}
+}
+.b_img{}
+.b_img img{}
+
+.com_padding{
+	padding-bottom: 100px;
+}
+.s_feature{
+	margin-top: 24px;
+	background-color: #F0FFF0;;
+	padding: 55px;
+	border-radius: 10px;
+	box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+	transition: .33s ease;
+}
+.s_feature:hover{
+	background-color: #FFFFFF;
+	
+}
+.s_img{
+	margin: 0 auto;
+	width: 75px;
+    height: 100px;    
+}
+.f_h2{
+	font-size:24px;
+	font-weight: 500;
+	color: #000000;
+}
+.f_p{}
+.c_h1{
+	padding-bottom: 60px;
+	font-size:26px;
+	font-weight: 700;
+	color: #000000;
+}
+.c_lastpart{
+	padding: 20px 0 20px 0;
+}
+.c_item{
+	padding: 24px 20px 24px;
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.c_h2{
+	font-size: 24px;
+}
+.footer_top{
+	padding: 55px 0 55px;
+	background-color: #282531;
+}
+.ft_details{
+	padding-right: 115px;
+}
+.ft_details p{
+	color: #ffffff;
+	line-height: 30px;
+}
+.ft_links{}
+.ft_links h2{
+	margin-bottom: 16px;
+	font-size: 18px;
+	font-weight: 700;
+	color: #FFFFFF;
+	line-height: 36px;
+}
+.ft_links ul li a{
+	margin-bottom: 12px;
+	display: block;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+footer{
+	color: #FFFFFF;
+	padding-bottom: 15px;
+	background-color: #282531;
+	text-align: center;
+	}
+footer p a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+
